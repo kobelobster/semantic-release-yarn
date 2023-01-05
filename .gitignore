@@ -7,9 +7,6 @@
 !.yarn/sdks
 !.yarn/versions
 
-# build
-.dist
-
 # jest
 coverage
 junit.xml
